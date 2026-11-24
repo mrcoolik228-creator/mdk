@@ -59,6 +59,7 @@ namespace Library02
                         if (result != null)
                         {
                             // --- ГЛАВНОЕ ИЗМЕНЕНИЕ ---
+                            //хей
                             // Сохраняем ID читателя в глобальную переменную!
                             GlobalData.CurrentReaderId = Convert.ToInt32(result);
 
